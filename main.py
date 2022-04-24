@@ -11,7 +11,7 @@ if __name__ == '__main__':
     print('Olá, deseja executar esse programa?\n\n')
     print('====================================================')
     print(' Y. Criar QR code')
-    print(' N. Ler QR code')
+    print(' N. Fechar')
     print('====================================================')
     awnser = input(' • ')
 
